@@ -17,6 +17,6 @@ soundfile >=0.10.2,<0.11
 speechbrain >=0.5.12,<0.6
 torch >=1.9
 torch_audiomentations >= 0.11.0
-torchaudio >=0.10,<1.0
-torchmetrics >=0.6,<1.0
+torchaudio >=0.10
+torchmetrics >=0.6
 typing_extensions
